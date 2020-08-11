@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Python Project
+- 🔭 I’m currently working on Simple Chatty Bot Project
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Automation Projects
 - 🤔 I’m looking for help with Web Scraping
