@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web Scraping Project.
 - 😄 IDE used for development: IDLE
 - 💬 Ask me about Anything.
-- 📫 How to reach me: someshnarwade@gmail.com
+ 
 
-- ⚡ Fun fact: I have a secret BitBucket account with Python 4.0 repository!
+<p align="center">
+  <a href="mailto:someshnarwade@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/someshnarwade/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
