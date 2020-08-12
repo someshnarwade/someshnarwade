@@ -1,8 +1,5 @@
 ### Hi there, Here's What I'm Working On! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Credit Calculator Project.
 - 🌱 I’m currently learning Python on JetBrains Academy, Percipio and TechWithTim. 
 - 👯 I’m looking to collaborate on Automation Projects.
@@ -10,6 +7,12 @@ Here are some ideas to get you started:
 - 😄 IDE used for development: IDLE
 - 💬 Ask me about Anything.
  
+### What I'll work on next...
+- Complete all JetBrains Academy Projects
+- Complete 30DaysOfCodeChallenge on HackerRank
+- Create a blogging and portfolio site
+- Create automation scripts to automatically apply for jobs
+
 
 <p align="center">
   <a href="mailto:someshnarwade@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
