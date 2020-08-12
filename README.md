@@ -15,7 +15,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=someshnarwade&show_icons=true&hide_border=true)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=someshnarwade&show_icons=true&hide_border=true" alt="my github stats" width="450"/>
+</p>
 
 
 <p align="center">
