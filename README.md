@@ -13,7 +13,10 @@
 - Create a blogging and portfolio site
 - Create automation scripts to automatically apply for jobs
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=someshnarwade&show_icons=true&hide_border=true)
+## &#x1f4c8; GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=someshnarwade&show_icons=true&hide_border=true)
+
 
 <p align="center">
   <a href="mailto:someshnarwade@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
