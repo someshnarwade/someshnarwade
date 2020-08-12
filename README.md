@@ -15,8 +15,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=someshnarwade&show_icons=true&hide_border=true" alt="my github stats" width="450"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=someshnarwade&show_icons=true&hide_border=true" alt="my github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshnarwade&show_icons=true&hide_border=true&layout=compact" alt="my github stats"/>
 </p>
 
 
