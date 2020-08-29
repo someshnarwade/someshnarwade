@@ -1,6 +1,6 @@
 ### Hi there, Here's What I'm Working On! 👋
 
-- 🔭 I’m currently working on Hangman Project.
+- 🔭 I’m currently working on Tic-Tac-Toe Project.
 - 🌱 I’m currently learning Python on JetBrains Academy, Percipio and TechWithTim. 
 - 👯 I’m looking to collaborate on Automation Projects.
 - 🤔 I’m looking for help with Web Scraping Project.
