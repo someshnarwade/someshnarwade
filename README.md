@@ -12,6 +12,16 @@
 - Create a blogging and portfolio site
 - Create automation scripts to automatically apply for jobs
 
+## Find a Repository
+Projects
+- <a href="https://github.com/someshnarwade/tictactoe" target="_blank">Tic Tac Toe</a>
+- [Advanced Rock Paper Scissors](https://github.com/someshnarwade/advanced-rock-paper-scissors)
+- [HangMan]()
+- [Loan Calculator]()
+- [Zookeeper]()
+- [Simple Chatty Bot]()
+
+
 ## &#x1f4c8; GitHub Stats
 
 <p align="center">
