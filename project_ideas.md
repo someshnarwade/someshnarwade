@@ -1,13 +1,13 @@
 # [Real Python Intermediate Project Ideas](https://realpython.com/courses/intermediate-project-ideas/)
 
-## Command Line Project Ideas
+### Command Line Project Ideas
 * Contact Book
 * Site Connectivity Checker
 * Bulk File Rename Tool
 * Directory Tree Generator
 
 
-## Web Project Ideas
+### Web Project Ideas
 * Content Aggregator
 * Regex Query Tool
 * URL Shortner
@@ -15,8 +15,11 @@
 * Quiz Application
 
 
-# GUI Project Ideas
+### GUI Project Ideas
 * Audio Player
 * Alarm Tool
 * File Manager
 * Expense Tracker
+
+## Personal
+* eBook Reader for linux
