@@ -1,4 +1,4 @@
-### Hi there, Here's What I'm Working On! 👋
+## Hi there, Here's What I'm Working On! 👋
 
 - 🔭 I’m currently working on Simple Banking System Project.
 - 🌱 I’m currently learning Python on JetBrains Academy, Percipio and TechWithTim. 
@@ -7,19 +7,30 @@
 - 😄 Code Editor used for development: IDLE, Jupyter Notebooks
 - 💬 Ask me about Anything.
  
-### What I'll work on next...
+## What I'll work on next...
 - Complete all JetBrains Academy Projects
 - Create a blogging and portfolio site
 - Create automation scripts to automatically apply for jobs
 
 ## Find a Repository
-Projects
-- <a href="https://github.com/someshnarwade/tictactoe" target="_blank">Tic Tac Toe</a>
+### Projects 
+*sorted by decreasing complexity*
+- [Tetris Game](https://github.com/someshnarwade/tetris-game)
+- [Connect4 Game](https://github.com/someshnarwade/connect-four-game)
+- [Pong Game](https://github.com/someshnarwade/pongGame)
+- [Simple Banking System](https://github.com/someshnarwade/simple-banking-system)
 - [Advanced Rock Paper Scissors](https://github.com/someshnarwade/advanced-rock-paper-scissors)
-- [HangMan]()
-- [Loan Calculator]()
-- [Zookeeper]()
-- [Simple Chatty Bot]()
+- [Tic Tac Toe](https://github.com/someshnarwade/tictactoe)
+- [Loan Calculator](https://github.com/someshnarwade/credit-calculator)
+- [HangMan](https://github.com/someshnarwade/hangman)
+- [Zookeeper](https://github.com/someshnarwade/Zookeeper)
+- [Simple Chatty Bot](https://github.com/someshnarwade/simplechattybot)
+
+### Templates
+- [JetBrains Academy Project](https://github.com/someshnarwade/jetbrains-template)
+
+### Other
+- [This README](https://github.com/someshnarwade/someshnarwade)
 
 
 ## &#x1f4c8; GitHub Stats
