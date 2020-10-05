@@ -13,24 +13,24 @@
 - Create automation scripts to automatically apply for jobs
 
 ## Find a Repository
-> ### Projects 
-> *sorted by decreasing complexity*
-> - [Tetris Game](https://github.com/someshnarwade/tetris-game)
-> - [Connect4 Game](https://github.com/someshnarwade/connect-four-game)
-> - [Pong Game](https://github.com/someshnarwade/pongGame)
-> - [Simple Banking System](https://github.com/someshnarwade/simple-banking-system)
-> - [Advanced Rock Paper Scissors](https://github.com/someshnarwade/advanced-rock-paper-scissors)
-> - [Tic Tac Toe](https://github.com/someshnarwade/tictactoe)
-> - [Loan Calculator](https://github.com/someshnarwade/credit-calculator)
-> - [HangMan](https://github.com/someshnarwade/hangman)
-> - [Zookeeper](https://github.com/someshnarwade/Zookeeper)
-> - [Simple Chatty Bot](https://github.com/someshnarwade/simplechattybot)
+### Projects 
+*sorted by decreasing complexity*
+- [Tetris Game](https://github.com/someshnarwade/tetris-game)
+- [Connect4 Game](https://github.com/someshnarwade/connect-four-game)
+- [Pong Game](https://github.com/someshnarwade/pongGame)
+- [Simple Banking System](https://github.com/someshnarwade/simple-banking-system)
+- [Advanced Rock Paper Scissors](https://github.com/someshnarwade/advanced-rock-paper-scissors)
+- [Tic Tac Toe](https://github.com/someshnarwade/tictactoe)
+- [Loan Calculator](https://github.com/someshnarwade/credit-calculator)
+- [HangMan](https://github.com/someshnarwade/hangman)
+- [Zookeeper](https://github.com/someshnarwade/Zookeeper)
+- [Simple Chatty Bot](https://github.com/someshnarwade/simplechattybot)
 
-> ### Templates
-> - [JetBrains Academy Project](https://github.com/someshnarwade/jetbrains-template)
+### Templates
+- [JetBrains Academy Project](https://github.com/someshnarwade/jetbrains-template)
 
-> ### Other
-> - [This README](https://github.com/someshnarwade/someshnarwade)
+### Other
+- [This README](https://github.com/someshnarwade/someshnarwade)
 
 
 ## &#x1f4c8; GitHub Stats
